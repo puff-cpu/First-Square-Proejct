@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/TEST.TestWav.wav</SourceFile>
+  <SourceTime>2020-01-18T04:42:30+09:00</SourceTime>
+  <DestFile>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/bin/DesktopGL/Content/TEST.TestWav.xnb</DestFile>
+  <DestTime>2020-01-20T20:20:50.2771262+09:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-09T01:35:54+09:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-09T01:35:54+09:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

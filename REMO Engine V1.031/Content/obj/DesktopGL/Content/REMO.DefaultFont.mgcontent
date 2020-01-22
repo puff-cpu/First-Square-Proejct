@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/REMO.DefaultFont.spritefont</SourceFile>
+  <SourceTime>2020-01-20T20:06:35.368511+09:00</SourceTime>
+  <DestFile>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/bin/DesktopGL/Content/REMO.DefaultFont.xnb</DestFile>
+  <DestTime>2020-01-20T20:08:23.3777423+09:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-09T01:35:54+09:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-09T01:35:54+09:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

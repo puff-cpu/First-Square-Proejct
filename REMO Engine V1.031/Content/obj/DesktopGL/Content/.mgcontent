@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/REMO.Cursor.png</File>
+    <File>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/REMO.DefaultFont.spritefont</File>
+    <File>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/REMO.Light.png</File>
+    <File>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/REMO.WhiteSpace.png</File>
+    <File>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/TEST.teststar.wav</File>
+    <File>C:/Users/joseongho/source/repos/REMO Engine V1.031/REMO Engine V1.031/Content/TEST.TestWav.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

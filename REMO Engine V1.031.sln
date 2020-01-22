@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REMO Engine V1.031", "REMO Engine V1.031\REMO Engine V1.031.csproj", "{00C7DFA9-4ED6-4D44-B13D-21727DC47389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00C7DFA9-4ED6-4D44-B13D-21727DC47389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C7DFA9-4ED6-4D44-B13D-21727DC47389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C7DFA9-4ED6-4D44-B13D-21727DC47389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C7DFA9-4ED6-4D44-B13D-21727DC47389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9A60F8-6AF1-4006-BC52-A8E693F1B30F}
+	EndGlobalSection
+EndGlobal
