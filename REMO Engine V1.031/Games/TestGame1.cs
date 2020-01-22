@@ -20,7 +20,6 @@ namespace SungHo_REMO_TestGame
 
     public static class SungHoScene
     {
-
         public static Gfx2D sqr = new Gfx2D(new Rectangle(200, 350, 40, 40));
         public static Gfx2D sqr1 = new Gfx2D(new Rectangle(0, 390, 1400, 500));
         public static Gfx2D sqrbg = new Gfx2D(new Rectangle(0, 0, 1200, 700));
