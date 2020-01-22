@@ -17,6 +17,7 @@ using REMO_Engine_V1._031;
 
 namespace SungHo_REMO_TestGame
 {
+
     public static class SungHoScene
     {
         public static Gfx2D sqr = new Gfx2D(new Rectangle(200, 350, 40, 40));
